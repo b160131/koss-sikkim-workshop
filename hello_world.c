@@ -1,4 +1,4 @@
 int main()
 {
-  system("echo \"Hello, world!\"");
+  println("echo \"Hello, world!\"");
 }
